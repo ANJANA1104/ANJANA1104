@@ -1,43 +1,67 @@
 # 👋 Hello, I'm Anjana J
 
-🎓 Currently pursuing Computer Science Engineering (AI)  
-💡 Passionate about building real-world solutions with AI, ML, and mobile development  
-📍 Based in Kozhikode, Kerala | 🌱 Learning something new every day
+Welcome to my GitHub profile! I'm a curious and driven Computer Science Engineering student, currently exploring the world of Artificial Intelligence, software development, and real-world tech solutions.
+
+---
+
+## 👩‍💻 About Me
+
+🎓 **Student** | B.Tech in Computer Science (AI) at Muthoot Institute of Technology and Science (2022–2026)  
+📍 Based in Kozhikode, Kerala 
+💡 Passionate about building real-world solutions with AI, ML, and mobile development 
+🤝 Always open to collaborating on impactful and innovative projects  
 
 ---
 
 ## 🔧 Skills & Technologies
 
 **Languages**: Python, C, Java (basic)  
-**Frameworks**: Flutter, FastAPI  
-**Tools**: VS Code, Android Studio  
-**Data & ML**: Pandas, NumPy, Scikit-learn, MySQL  
-**Others**: LaTeX, Git, GitHub  
+**Mobile & Web**: Flutter, FastAPI  
+**Data & ML**: Pandas, NumPy, Scikit-learn, XGBoost, Random Forest  
+**Databases**: MySQL  
+**Tools**: VS Code, Android Studio, Git, GitHub  
+**Design & Docs**: LaTeX, Markdown  
+**Soft Skills**: Communication, Team Collaboration, Problem Solving  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [WattsNext ⚡](#) – Energy prediction app using Flutter + FastAPI + ML (XGBoost, RF)  
-- Smart Walking Stick 🦯 – Assistive device showcased at ROBO-DREAMS  
-- Medinex 🏥 – Hackathon prototype for hospital workflow (Tink-Her-Hack 2.0)
+### ⚡ WattsNext – Energy Consumption App
+Built a mobile-first app using **Flutter + FastAPI** with an embedded **ML model** (XGBoost, Random Forest) to predict household electricity usage and provide personalized tips.
 
----
+### 🦯 Smart Walking Stick – Assistive Tech
+Sensor-powered smart stick designed for the visually impaired, showcased at **ROBO-DREAMS 2025** using ultrasonic sensors and embedded systems.
 
-## 🧠 Workshops & Certifications
-
-- GenAI in Action – AI development workshop by iSkew  
-- Python & Django Full Stack – Zero Pixels  
-- Google Cloud Data Analytics – BigQuery, Looker Studio  
-- NPTEL Python for Data Science – Elite Certificate
+### 🏥 Medinex – Hospital Management App
+Conceptualized in a 24-hour hackathon (**Tink-Her-Hack 2.0**), this app streamlines hospital workflows and improves patient data handling.
 
 ---
 
-## 📫 Let's Connect
+## 🏆 Certifications & Workshops
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/anjana-j04)  
-✉️ anjana.karunekkat@gmail.com
+- **Google Cloud Career Launchpad** – Data Analytics with BigQuery & Looker Studio  
+- **NPTEL** – Python for Data Science (Elite certificate)  
+- **Infosys Springboard** – Principles of Generative AI  
+- **Zero Pixels** – Python & Django full-stack web development
+- **GenAI in Action** – AI development workshop by iSkew  
+
+---
+
+## 💡 Hackathons 
+
+- 👩‍⚕️ **Tink-Her-Hack 2.0** – Built Medinex, a hospital management solution  
+
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anjana-j04)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjana.karunekkat@gmail.com)
 
 ---
 
 > *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
+
+Thanks for visiting my profile! Let's create something amazing together. 🚀
